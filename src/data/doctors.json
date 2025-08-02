@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. John Doe",
+    "specialization": "Cardiologist",
+    "image": "/images/doctor1.jpg",
+    "availability": "Available Today",
+    "schedule": [
+      { "day": "Monday", "time": "9:00 AM - 5:00 PM" },
+      { "day": "Wednesday", "time": "9:00 AM - 5:00 PM" },
+      { "day": "Friday", "time": "9:00 AM - 1:00 PM" }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Dr. Jane Smith",
+    "specialization": "Dermatologist",
+    "image": "/images/doctor2.jpg",
+    "availability": "Fully Booked",
+    "schedule": [
+      { "day": "Tuesday", "time": "10:00 AM - 6:00 PM" },
+      { "day": "Thursday", "time": "10:00 AM - 6:00 PM" }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Dr. Peter Jones",
+    "specialization": "Pediatrician",
+    "image": "/images/doctor3.jpg",
+    "availability": "On Leave",
+    "schedule": []
+  },
+  {
+    "id": 4,
+    "name": "Dr. Emily Carter",
+    "specialization": "Neurologist",
+    "image": "/images/doctor4.jpg",
+    "availability": "Available Today",
+    "schedule": [
+      { "day": "Tuesday", "time": "9:00 AM - 4:00 PM" },
+      { "day": "Friday", "time": "10:00 AM - 5:00 PM" }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Dr. Michael Lee",
+    "specialization": "Orthopedic Surgeon",
+    "image": "/images/doctor5.jpg",
+    "availability": "Fully Booked",
+    "schedule": [
+      { "day": "Monday", "time": "8:00 AM - 3:00 PM" },
+      { "day": "Thursday", "time": "8:00 AM - 3:00 PM" }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Dr. Sarah Chen",
+    "specialization": "Endocrinologist",
+    "image": "/images/doctor6.jpg",
+    "availability": "Available Today",
+    "schedule": [
+      { "day": "Wednesday", "time": "11:00 AM - 6:00 PM" }
+    ]
+  }
+]

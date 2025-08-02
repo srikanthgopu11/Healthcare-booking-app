@@ -1,0 +1,54 @@
+/* src/components/styles/DoctorProfile.css */
+.profile-container {
+    padding: 32px;
+    max-width: 900px;
+    margin: auto;
+}
+
+.back-link {
+    display: block;
+    margin-bottom: 16px;
+    color: #007bff;
+    text-decoration: none;
+}
+
+.profile-card {
+    background: white;
+    padding: 32px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    text-align: center;
+}
+
+.profile-image-large {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-bottom: 16px;
+}
+
+.specialization {
+    color: #555;
+    font-size: 20px;
+    margin-bottom: 32;
+}
+
+.schedule ul {
+    list-style: none;
+    padding: 0;
+}
+
+.schedule li {
+    margin: 8px 0;
+}
+
+.book-appointment-button {
+    margin-top: 24px;
+    padding: 12px 24px;
+    font-size: 18px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
