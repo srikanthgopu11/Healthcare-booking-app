@@ -11,6 +11,8 @@ This project is a responsive web application for booking healthcare appointments
 - CSS3: For custom styling and creating a responsive design.
 - Mock JSON Data: A static `doctors.json` file is used to simulate a backend API.
 
+## [WEBSITE LINK] (http://healthbooking.netlify.app)
+
 ## Improvements with More Time
 
 If I had more time to work on this project, I would implement the following enhancements:
